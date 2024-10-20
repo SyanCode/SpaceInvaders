@@ -1,4 +1,4 @@
-# Space Invaders
+# Space Invaders 👾
 
 ## Une reproduction de Space Invaders en Python (projet scolaire).
 
