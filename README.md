@@ -2,6 +2,28 @@
 
 ## Une reproduction de Space Invaders en Python (projet scolaire).
 
+---
+
+## 🛠 Installation
+
+1. **Cloner le dépôt :**  
+   Ouvrez votre terminal et exécutez la commande suivante : git clone https://github.com/SyanCode/SpaceInvaders.git
+2. **Se rendre dans le dossier Final (ou autre en fonction de l'étape souhaitée)**
+3. **Lancer le script associé à chaque étape**
+
+### 📋 Pré-requis
+Python 3.7 ou supérieur
+Modules Python nécessaires (listés dans requirements.txt si applicable)
+Exemple : pygame
+
+### 🚀 Fonctionnalités
+- Détruisez les vaisseaux ennemis pour accumuler des points.
+- Attention, chaque erreur peut vous coûter une vie !
+- Plus vous progressez, plus le jeu devient rapide et difficile !
+
+### 🤝 Contribuer
+Les contributions sont les bienvenues ! Ouvrez une issue ou soumettez une pull request pour proposer des améliorations.
+
 ### Détails des différentes étapes :
 
 #### Étape 1 : Créer l’écran de jeu et le canon
@@ -27,3 +49,6 @@ Dans cette étape, vous allez ajouter un minuteur qui s’affichera en haut à d
 
 #### Étape 8 : Améliorations du jeu
 Dans cette étape, vous allez améliorer le jeu de manière significative en ajoutant des sons et d’autres fonctionnalités avancées. Ces améliorations visent à rendre le jeu plus immersif et interactif.
+
+### 📧 Contact
+Si vous avez des questions, contactez-moi à [syan@sxnweb.fr](syan@sxnweb.fr).
